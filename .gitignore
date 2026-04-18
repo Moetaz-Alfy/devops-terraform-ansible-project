@@ -1,19 +1,15 @@
-# Terraform
+
 .terraform/
 **/.terraform/*
 terraform.tfstate
 terraform.tfstate.*
 .terraform.lock.hcl
 
-# SSH Keys
 *.pem
 
-# AWS credentials
 .aws/
 
-# Ansible temp files
 *.retry
 
-# OS files
 .DS_Store
 Thumbs.db
